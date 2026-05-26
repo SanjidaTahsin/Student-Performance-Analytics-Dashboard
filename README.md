@@ -143,7 +143,7 @@ Visuals Included -
 
   Overview
 
-![Overview](screenshots/overview.png)
+![Overview](Screenshot/Overview.png)
 
 
 Purpose
