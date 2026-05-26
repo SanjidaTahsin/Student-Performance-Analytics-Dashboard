@@ -124,52 +124,53 @@ SWITCH(
 )
 
 ### Dashboard Pages
-Page 1: Overview
+
+## Page 1: Overview
 
 This page provides a high-level summary of student performance.
 
 Visuals Included
-*Total Students card
-*Average Exam Score card
-*Average Attendance card
-*Average Study Hours card
-*High Risk Students card
-*Average Previous Score card
-*Exam Score distribution chart
-*Students by Performance Level
-*Average Exam Score by Gender
-*Also some Slicers to get a clear picture.
+Total Students card
+Average Exam Score card
+Average Attendance card
+Average Study Hours card
+High Risk Students card
+Average Previous Score card
+Exam Score distribution chart
+Students by Performance Level
+Average Exam Score by Gender
+Also some Slicers to get a clear picture.
 
 Purpose
 
 This page gives a quick overview of overall student performance and helps users understand the general condition of the dataset.
 
-### Page 2: Academic Factors
+## Page 2: Academic Factors
 
 This page focuses on academic behavior and its relationship with exam scores.
 
 Visuals Included
-*Average Exam Score by Attendance Group
-*Average Exam Score by Study Hours Group
-*Exam Score vs Attendance scatter plot
-*Exam Score vs Previous Scores scatter plot
+Average Exam Score by Attendance Group
+Average Exam Score by Study Hours Group
+Exam Score vs Attendance scatter plot
+Exam Score vs Previous Scores scatter plot
 
 Key Focus Areas
-*Attendance impact on exam performance
-*Study hours impact on exam performance
-*Relationship between previous scores and final exam score
-*Effect of tutoring sessions on student outcomes
+Attendance impact on exam performance
+Study hours impact on exam performance
+Relationship between previous scores and final exam score
+Effect of tutoring sessions on student outcomes
 
 ## Page 3: Support and Socioeconomic Factors
 
 This page analyzes non-academic factors that may influence student performance.
 
 Visuals Included
-*Average Exam Score by Parental Involvement
-*Average Exam Score by Access to Resources
-*Average Exam Score by Teacher Quality
-*Average Exam Score by Family Income
-*Average Exam Score by Internet Access
+Average Exam Score by Parental Involvement
+Average Exam Score by Access to Resources
+Average Exam Score by Teacher Quality
+Average Exam Score by Family Income
+Average Exam Score by Internet Access
 
 Purpose
 
@@ -182,16 +183,16 @@ This page identifies students who may need academic support.
 
 Visuals Included
 Students by Performance Level -
-*Risk Level by Learning Disabilities
-*High Risk Students by Attendance Group
-*High Risk Students by Study Hours Group
-*Risk matrix by Motivation Level and Performance Level
+Risk Level by Learning Disabilities
+High Risk Students by Attendance Group
+High Risk Students by Study Hours Group
+Risk matrix by Motivation Level and Performance Level
 
 Purpose
 
 The goal of this page is to identify patterns among high-risk students and support early intervention planning.
 
-### Page 5: Key Influencer Analysis
+## Page 5: Key Influencer Analysis
 
 Power BI's Key Influencers visual was used to identify which factors have the strongest relationship with exam scores.
 
@@ -212,14 +213,14 @@ Key Insights
 
 The dashboard revealed several important insights:
 
-** Attendance is one of the strongest factors associated with student exam performance.
-**Students with higher study hours generally achieve better exam scores.
-**Previous academic performance has a positive relationship with final exam scores.
-**Students with better access to resources tend to perform better.
-**Higher parental involvement is associated with better academic outcomes.
-**Students with internet access have slightly higher average exam scores.
-**Teacher quality and family income also show noticeable differences in average performance.
-**Gender and school type show relatively small differences in exam scores.
+Attendance is one of the strongest factors associated with student exam performance.
+Students with higher study hours generally achieve better exam scores.
+Previous academic performance has a positive relationship with final exam scores.
+Students with better access to resources tend to perform better.
+Higher parental involvement is associated with better academic outcomes.
+Students with internet access have slightly higher average exam scores.
+Teacher quality and family income also show noticeable differences in average performance.
+Gender and school type show relatively small differences in exam scores.
 
 
 ### Conclusion
