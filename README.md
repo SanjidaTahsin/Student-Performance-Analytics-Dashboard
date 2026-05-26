@@ -129,16 +129,16 @@ SWITCH(
 
 This page provides a high-level summary of student performance.
 
-Visuals Included
-Total Students card
-Average Exam Score card
-Average Attendance card
-Average Study Hours card
-High Risk Students card
-Average Previous Score card
-Exam Score distribution chart
-Students by Performance Level
-Average Exam Score by Gender
+Visuals Included - 
+Total Students card, 
+Average Exam Score card, 
+Average Attendance card, 
+Average Study Hours card, 
+High Risk Students card, 
+Average Previous Score card, 
+Exam Score distribution chart, 
+Students by Performance Level, 
+Average Exam Score by Gender, 
 Also some Slicers to get a clear picture.
 
 Purpose
@@ -149,13 +149,13 @@ This page gives a quick overview of overall student performance and helps users 
 
 This page focuses on academic behavior and its relationship with exam scores.
 
-Visuals Included
-Average Exam Score by Attendance Group
-Average Exam Score by Study Hours Group
-Exam Score vs Attendance scatter plot
-Exam Score vs Previous Scores scatter plot
+Visuals Included - 
+Average Exam Score by Attendance Group, 
+Average Exam Score by Study Hours Group, 
+Exam Score vs Attendance scatter plot, 
+Exam Score vs Previous Scores scatter plot, 
 
-Key Focus Areas
+Key Focus Areas - 
 Attendance impact on exam performance
 Study hours impact on exam performance
 Relationship between previous scores and final exam score
