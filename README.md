@@ -141,6 +141,11 @@ Visuals Included -
 - Average Exam Score by Gender,
 - Also some Slicers to get a clear picture.
 
+  Overview
+
+![Overview](screenshots/overview.png)
+
+
 Purpose
 
 This page gives a quick overview of overall student performance and helps users understand the general condition of the dataset.
