@@ -153,24 +153,24 @@ Visuals Included -
 Average Exam Score by Attendance Group, 
 Average Exam Score by Study Hours Group, 
 Exam Score vs Attendance scatter plot, 
-Exam Score vs Previous Scores scatter plot, 
+Exam Score vs Previous Scores scatter plot. 
 
 Key Focus Areas - 
-Attendance impact on exam performance
-Study hours impact on exam performance
-Relationship between previous scores and final exam score
-Effect of tutoring sessions on student outcomes
+Attendance impact on exam performance, 
+Study hours impact on exam performance, 
+Relationship between previous scores and final exam score, 
+Effect of tutoring sessions on student outcomes. 
 
 ## Page 3: Support and Socioeconomic Factors
 
 This page analyzes non-academic factors that may influence student performance.
 
-Visuals Included
-Average Exam Score by Parental Involvement
-Average Exam Score by Access to Resources
-Average Exam Score by Teacher Quality
-Average Exam Score by Family Income
-Average Exam Score by Internet Access
+Visuals Included - 
+Average Exam Score by Parental Involvement, 
+Average Exam Score by Access to Resources, 
+Average Exam Score by Teacher Quality, 
+Average Exam Score by Family Income, 
+Average Exam Score by Internet Access. 
 
 Purpose
 
@@ -183,10 +183,10 @@ This page identifies students who may need academic support.
 
 Visuals Included
 Students by Performance Level -
-Risk Level by Learning Disabilities
-High Risk Students by Attendance Group
-High Risk Students by Study Hours Group
-Risk matrix by Motivation Level and Performance Level
+Risk Level by Learning Disabilities, 
+High Risk Students by Attendance Group, 
+High Risk Students by Study Hours Group, 
+Risk matrix by Motivation Level and Performance Level. 
 
 Purpose
 
@@ -196,31 +196,32 @@ The goal of this page is to identify patterns among high-risk students and suppo
 
 Power BI's Key Influencers visual was used to identify which factors have the strongest relationship with exam scores.
 
-Fields Used
-Attendance
-Hours_Studied
-Previous_Scores
-Tutoring_Sessions
-Access_to_Resources
-Parental_Involvement
-Motivation_Level
-Family_Income
-Teacher_Quality
-Internet_Access
-Peer_Influence
-Distance_from_Home
+Fields Used - 
+Attendance, 
+Hours_Studied, 
+Previous_Scores, 
+Tutoring_Sessions, 
+Access_to_Resources, 
+Parental_Involvement, 
+Motivation_Level, 
+Family_Income, 
+Teacher_Quality, 
+Internet_Access, 
+Peer_Influence, 
+Distance_from_Home, 
+
 Key Insights
 
 The dashboard revealed several important insights:
 
-Attendance is one of the strongest factors associated with student exam performance.
-Students with higher study hours generally achieve better exam scores.
-Previous academic performance has a positive relationship with final exam scores.
-Students with better access to resources tend to perform better.
-Higher parental involvement is associated with better academic outcomes.
-Students with internet access have slightly higher average exam scores.
-Teacher quality and family income also show noticeable differences in average performance.
-Gender and school type show relatively small differences in exam scores.
+#1. Attendance is one of the strongest factors associated with student exam performance.
+#2. Students with higher study hours generally achieve better exam scores.
+#3. Previous academic performance has a positive relationship with final exam scores.
+#4. Students with better access to resources tend to perform better.
+#5. Higher parental involvement is associated with better academic outcomes.
+#6. Students with internet access have slightly higher average exam scores.
+#7. Teacher quality and family income also show noticeable differences in average performance.
+#8. Gender and school type show relatively small differences in exam scores.
 
 
 ### Conclusion
