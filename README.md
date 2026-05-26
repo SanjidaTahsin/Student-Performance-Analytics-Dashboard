@@ -158,7 +158,9 @@ Visuals Included -
 - Average Exam Score by Attendance Group,
 - Average Exam Score by Study Hours Group,
 - Exam Score vs Attendance scatter plot,
-- Exam Score vs Previous Scores scatter plot. 
+- Exam Score vs Previous Scores scatter plot.
+
+![Academic Factors](Screenshot/Academic-Factors.png)
 
 Key Focus Areas - 
 - Attendance impact on exam performance,
@@ -175,7 +177,9 @@ Visuals Included -
 - Average Exam Score by Access to Resources,
 - Average Exam Score by Teacher Quality,
 - Average Exam Score by Family Income,
-- Average Exam Score by Internet Access. 
+- Average Exam Score by Internet Access.
+
+![Support and Socioeconomic Factors](Screenshot/Support-and-Socioeconomic-Factors.png)
 
 Purpose
 
@@ -192,6 +196,8 @@ Students by Performance Level -
 - High Risk Students by Attendance Group,
 - High Risk Students by Study Hours Group,
 - Risk matrix by Motivation Level and Performance Level. 
+
+![Risk Analysis](Screenshot/Risk-Analysis.png)
 
 Purpose
 
@@ -214,6 +220,8 @@ Fields Used -
 - Internet_Access,
 - Peer_Influence,
 - Distance_from_Home, 
+
+![Key Influencers](Screenshots/Key-Influencers.png)
 
 Key Insights
 
