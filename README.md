@@ -221,7 +221,7 @@ Fields Used -
 - Peer_Influence,
 - Distance_from_Home, 
 
-![Key Influencers](Screenshots/Key-Influencers.png)
+![Key Influencers](Screenshot/Key-Influencers.png)
 
 Key Insights
 
