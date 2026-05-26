@@ -214,14 +214,14 @@ Key Insights
 
 The dashboard revealed several important insights:
 
-#1. Attendance is one of the strongest factors associated with student exam performance.
-#2. Students with higher study hours generally achieve better exam scores.
-#3. Previous academic performance has a positive relationship with final exam scores.
-#4. Students with better access to resources tend to perform better.
-#5. Higher parental involvement is associated with better academic outcomes.
-#6. Students with internet access have slightly higher average exam scores.
-#7. Teacher quality and family income also show noticeable differences in average performance.
-#8. Gender and school type show relatively small differences in exam scores.
+# 1. Attendance is one of the strongest factors associated with student exam performance.
+# 2. Students with higher study hours generally achieve better exam scores.
+# 3. Previous academic performance has a positive relationship with final exam scores.
+# 4. Students with better access to resources tend to perform better.
+# 5. Higher parental involvement is associated with better academic outcomes.
+# 6. Students with internet access have slightly higher average exam scores.
+# 7. Teacher quality and family income also show noticeable differences in average performance.
+# 8. Gender and school type show relatively small differences in exam scores.
 
 
 ### Conclusion
